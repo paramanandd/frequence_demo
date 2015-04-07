@@ -79,6 +79,6 @@
   </build>  
   
  <properties>
-	<sonar.clover.reportPath>target/site/clover/coverage.xml</sonar.clover.reportPath>
+	<sonar.clover.reportPath>target/site/clover/clover.xml</sonar.clover.reportPath>
  </properties>
 </project>
