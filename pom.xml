@@ -81,4 +81,5 @@
  <properties>
 	<sonar.clover.reportPath>target/site/clover/clover.xml</sonar.clover.reportPath>
  </properties>
+ 
 </project>
